@@ -4,11 +4,9 @@
 ![preview](./.github/Captura%20de%20tela%202022-09-25%20003200.png)
 ![preview](./.github/Captura%20de%20tela%202022-09-25%20003221.png)
 
->Trilha Explorer
+>Hora de Codar
 
-Projeto construiído do evento Next Level Week da Rocketseat.
-
-[🔗 Clique aqui para acessar](https://joao-marcosom.github.io/nlw-esports/)
+Projeto construído no curso de React, feito para que seja um gerenciador completo de projetos
 
 ## Tecnologias 👾
 - HTML
