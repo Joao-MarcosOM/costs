@@ -1,8 +1,8 @@
 # Projeto Costs
 
-![preview](./.github/[Captura%20de%20tela%202022-09-25%20003141.png])
-![preview](./.github/[Captura%20de%20tela%202022-09-25%20003200.png])
-![preview](./.github/[Captura%20de%20tela%202022-09-25%20003221.png])
+![preview](./.github/Captura%20de%20tela%202022-09-25%20003141.png)
+![preview](./.github/Captura%20de%20tela%202022-09-25%20003200.png)
+![preview](./.github/Captura%20de%20tela%202022-09-25%20003221.png)
 
 >Trilha Explorer
 
