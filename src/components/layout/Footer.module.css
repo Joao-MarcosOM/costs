@@ -1,0 +1,53 @@
+footer{
+    width: 100%; 
+}
+.footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #222;
+    color: #FFF;
+    padding: 1em;
+    text-align: center;
+    display: flex;  
+    flex-direction: row;  
+    justify-content: space-between;
+}
+
+.teste{
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.social_list{
+    display: flex;
+    justify-content: right;
+    list-style-type: none;
+}
+
+.social_list li{
+    margin: 0 1em;
+}
+
+.social_list li:hover{
+    color: #FFBB33;
+}
+
+.social_list svg{
+    font-size: 1.5em;
+    cursor:pointer;
+}
+
+.copy_right{
+    display: flex;
+    align-self: flex-end;
+    /* margin-top: 2em; */
+}
+
+.copy_right span{
+    font-weight: bold;
+    color: #FFBB33;
+}
+
