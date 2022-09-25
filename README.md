@@ -12,8 +12,8 @@
 
 >Hora de Codar
 
-Sistema feito para que seja um gerenciador de projetos;
-Sistema desenvolvido com back-end e front-end completo.
+- Sistema feito para que seja um gerenciador de projetos, 
+- Sistema desenvolvido com back-end e front-end completo.
 
 ## Tecnologias 👾
 - HTML
