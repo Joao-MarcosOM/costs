@@ -11,6 +11,9 @@ Projeto construído no curso de React, feito para que seja um gerenciador comple
 ## Tecnologias 👾
 - HTML
 - CSS
+- JavaScript
+- React
+- Node
 - Git e Github
 
 ## Contato 📃
